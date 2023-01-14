@@ -6,6 +6,8 @@ public class Lect2 {
 		// TODO Auto-generated method stub
 
 		System.out.println("I am in 2nd class");
+		System.out.println("Git & Github lecture");
+		System.out.println("Timing?");
 	}
 
 }
